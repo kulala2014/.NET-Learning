@@ -1,0 +1,13 @@
+D:\Learning\.net\Solution1\Learning.Event\bin\Debug\netcoreapp3.1\Learning.Event.exe
+D:\Learning\.net\Solution1\Learning.Event\bin\Debug\netcoreapp3.1\Learning.Event.deps.json
+D:\Learning\.net\Solution1\Learning.Event\bin\Debug\netcoreapp3.1\Learning.Event.runtimeconfig.json
+D:\Learning\.net\Solution1\Learning.Event\bin\Debug\netcoreapp3.1\Learning.Event.runtimeconfig.dev.json
+D:\Learning\.net\Solution1\Learning.Event\bin\Debug\netcoreapp3.1\Learning.Event.dll
+D:\Learning\.net\Solution1\Learning.Event\bin\Debug\netcoreapp3.1\Learning.Event.pdb
+D:\Learning\.net\Solution1\Learning.Event\obj\Debug\netcoreapp3.1\Learning.Event.csprojAssemblyReference.cache
+D:\Learning\.net\Solution1\Learning.Event\obj\Debug\netcoreapp3.1\Learning.Event.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\Learning.Event\obj\Debug\netcoreapp3.1\Learning.Event.AssemblyInfo.cs
+D:\Learning\.net\Solution1\Learning.Event\obj\Debug\netcoreapp3.1\Learning.Event.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Solution1\Learning.Event\obj\Debug\netcoreapp3.1\Learning.Event.dll
+D:\Learning\.net\Solution1\Learning.Event\obj\Debug\netcoreapp3.1\Learning.Event.pdb
+D:\Learning\.net\Solution1\Learning.Event\obj\Debug\netcoreapp3.1\Learning.Event.genruntimeconfig.cache

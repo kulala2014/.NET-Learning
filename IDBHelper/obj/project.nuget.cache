@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PvydqsyD6X+DFUl6Jy2QtaJXBf9vAyBa5tgPAXk2xwquHXtfqiXQ40Rt4sQt635DjlUBKeg/wU2aVGNoMo1EPw==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\.net\\Solution1\\IDBHelper\\IDBHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

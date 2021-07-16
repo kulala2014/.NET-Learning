@@ -1,0 +1,34 @@
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\Generical.exe
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\Generical.deps.json
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\Generical.runtimeconfig.json
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\Generical.runtimeconfig.dev.json
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\Generical.dll
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\Generical.pdb
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\ICSharpCode.Decompiler.dll
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Learning\.net\Solution1\Generical\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+D:\Learning\.net\Solution1\Generical\obj\Debug\netcoreapp3.1\Generical.csprojAssemblyReference.cache
+D:\Learning\.net\Solution1\Generical\obj\Debug\netcoreapp3.1\Generical.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\Generical\obj\Debug\netcoreapp3.1\Generical.AssemblyInfo.cs
+D:\Learning\.net\Solution1\Generical\obj\Debug\netcoreapp3.1\Generical.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Solution1\Generical\obj\Debug\netcoreapp3.1\Generical.csproj.CopyComplete
+D:\Learning\.net\Solution1\Generical\obj\Debug\netcoreapp3.1\Generical.dll
+D:\Learning\.net\Solution1\Generical\obj\Debug\netcoreapp3.1\Generical.pdb
+D:\Learning\.net\Solution1\Generical\obj\Debug\netcoreapp3.1\Generical.genruntimeconfig.cache
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\Generical.exe
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\Generical.deps.json
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\Generical.runtimeconfig.json
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\Generical.runtimeconfig.dev.json
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\Generical.dll
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\Generical.pdb
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\ICSharpCode.Decompiler.dll
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Learning\.net\.Net Learning\Generical\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+D:\Learning\.net\.Net Learning\Generical\obj\Debug\netcoreapp3.1\Generical.csprojAssemblyReference.cache
+D:\Learning\.net\.Net Learning\Generical\obj\Debug\netcoreapp3.1\Generical.AssemblyInfoInputs.cache
+D:\Learning\.net\.Net Learning\Generical\obj\Debug\netcoreapp3.1\Generical.AssemblyInfo.cs
+D:\Learning\.net\.Net Learning\Generical\obj\Debug\netcoreapp3.1\Generical.csproj.CoreCompileInputs.cache
+D:\Learning\.net\.Net Learning\Generical\obj\Debug\netcoreapp3.1\Generical.csproj.CopyComplete
+D:\Learning\.net\.Net Learning\Generical\obj\Debug\netcoreapp3.1\Generical.dll
+D:\Learning\.net\.Net Learning\Generical\obj\Debug\netcoreapp3.1\Generical.pdb
+D:\Learning\.net\.Net Learning\Generical\obj\Debug\netcoreapp3.1\Generical.genruntimeconfig.cache

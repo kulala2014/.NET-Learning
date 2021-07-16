@@ -1,0 +1,18 @@
+D:\Learning\.net\Solution1\Business.DB.Model\bin\Debug\netstandard2.0\Business.DB.Model.deps.json
+D:\Learning\.net\Solution1\Business.DB.Model\bin\Debug\netstandard2.0\Business.DB.Model.dll
+D:\Learning\.net\Solution1\Business.DB.Model\bin\Debug\netstandard2.0\Business.DB.Model.pdb
+D:\Learning\.net\Solution1\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.csprojAssemblyReference.cache
+D:\Learning\.net\Solution1\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.AssemblyInfo.cs
+D:\Learning\.net\Solution1\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Solution1\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.dll
+D:\Learning\.net\Solution1\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.pdb
+D:\Learning\.net\.Net Learning\Business.DB.Model\bin\Debug\netstandard2.0\Business.DB.Model.deps.json
+D:\Learning\.net\.Net Learning\Business.DB.Model\bin\Debug\netstandard2.0\Business.DB.Model.dll
+D:\Learning\.net\.Net Learning\Business.DB.Model\bin\Debug\netstandard2.0\Business.DB.Model.pdb
+D:\Learning\.net\.Net Learning\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.csprojAssemblyReference.cache
+D:\Learning\.net\.Net Learning\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.AssemblyInfoInputs.cache
+D:\Learning\.net\.Net Learning\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.AssemblyInfo.cs
+D:\Learning\.net\.Net Learning\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.csproj.CoreCompileInputs.cache
+D:\Learning\.net\.Net Learning\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.dll
+D:\Learning\.net\.Net Learning\Business.DB.Model\obj\Debug\netstandard2.0\Business.DB.Model.pdb

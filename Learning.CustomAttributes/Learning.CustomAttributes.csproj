@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business.DB.Interface\Business.DB.Interface.csproj" />
+    <ProjectReference Include="..\Business.DB.Model\Business.DB.Model.csproj" />
+    <ProjectReference Include="..\Business.WebApi.Learning\Business.WebApi.Learning.csproj" />
+    <ProjectReference Include="..\Delegate.Learning\Delegate.Learning.csproj" />
+    <ProjectReference Include="..\Generical\Generical.csproj" />
+    <ProjectReference Include="..\RectionLoadAttribute\RectionLoadAttribute.csproj" />
+  </ItemGroup>
+
+</Project>

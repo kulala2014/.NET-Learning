@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Learning.CustomAttributes/1.0.0": {
+        "dependencies": {
+          "RectionLoadAttribute": "1.0.0"
+        },
+        "runtime": {
+          "Learning.CustomAttributes.dll": {}
+        }
+      },
+      "RectionLoadAttribute/1.0.0": {
+        "runtime": {
+          "RectionLoadAttribute.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learning.CustomAttributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RectionLoadAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

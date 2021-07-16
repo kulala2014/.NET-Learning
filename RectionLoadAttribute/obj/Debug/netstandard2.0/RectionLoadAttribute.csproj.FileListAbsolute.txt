@@ -1,0 +1,8 @@
+D:\Learning\.net\Solution1\RectionLoadAttribute\bin\Debug\netstandard2.0\RectionLoadAttribute.deps.json
+D:\Learning\.net\Solution1\RectionLoadAttribute\bin\Debug\netstandard2.0\RectionLoadAttribute.dll
+D:\Learning\.net\Solution1\RectionLoadAttribute\bin\Debug\netstandard2.0\RectionLoadAttribute.pdb
+D:\Learning\.net\Solution1\RectionLoadAttribute\obj\Debug\netstandard2.0\RectionLoadAttribute.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\RectionLoadAttribute\obj\Debug\netstandard2.0\RectionLoadAttribute.AssemblyInfo.cs
+D:\Learning\.net\Solution1\RectionLoadAttribute\obj\Debug\netstandard2.0\RectionLoadAttribute.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Solution1\RectionLoadAttribute\obj\Debug\netstandard2.0\RectionLoadAttribute.dll
+D:\Learning\.net\Solution1\RectionLoadAttribute\obj\Debug\netstandard2.0\RectionLoadAttribute.pdb

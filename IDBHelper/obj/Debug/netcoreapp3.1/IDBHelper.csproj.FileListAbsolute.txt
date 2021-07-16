@@ -1,0 +1,8 @@
+D:\Learning\.net\Solution1\IDBHelper\bin\Debug\netcoreapp3.1\IDBHelper.deps.json
+D:\Learning\.net\Solution1\IDBHelper\bin\Debug\netcoreapp3.1\IDBHelper.dll
+D:\Learning\.net\Solution1\IDBHelper\bin\Debug\netcoreapp3.1\IDBHelper.pdb
+D:\Learning\.net\Solution1\IDBHelper\obj\Debug\netcoreapp3.1\IDBHelper.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\IDBHelper\obj\Debug\netcoreapp3.1\IDBHelper.AssemblyInfo.cs
+D:\Learning\.net\Solution1\IDBHelper\obj\Debug\netcoreapp3.1\IDBHelper.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Solution1\IDBHelper\obj\Debug\netcoreapp3.1\IDBHelper.dll
+D:\Learning\.net\Solution1\IDBHelper\obj\Debug\netcoreapp3.1\IDBHelper.pdb

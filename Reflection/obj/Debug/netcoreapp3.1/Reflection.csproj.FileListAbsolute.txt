@@ -1,0 +1,17 @@
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Generical.exe
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Generical.dll
+D:\Learning\.net\Solution1\Reflection\bin\Debug\netcoreapp3.1\Generical.pdb
+D:\Learning\.net\Solution1\Reflection\obj\Debug\netcoreapp3.1\Reflection.csprojAssemblyReference.cache
+D:\Learning\.net\Solution1\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+D:\Learning\.net\Solution1\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Solution1\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CopyComplete
+D:\Learning\.net\Solution1\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+D:\Learning\.net\Solution1\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+D:\Learning\.net\Solution1\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache

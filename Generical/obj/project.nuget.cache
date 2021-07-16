@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5g0b0cNfLCg0BZP8iSPZQc6zeCuYjmOC8tduUiUwnDK3OTl5Tn2rpa5n7HMs4sIOZgB5BC8xCTtIksx6gv+eQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\.net\\.Net Learning\\Generical\\Generical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\高熙熙\\.nuget\\packages\\icsharpcode.decompiler\\7.1.0.6543\\icsharpcode.decompiler.7.1.0.6543.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

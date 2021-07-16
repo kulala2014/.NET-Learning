@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFhpjfs86NxZJ4cCSaj0B6DosUeMZY8KSdYTQ6xGt6guEZyYcvqHqPppvFy7y3dTsH8nVLKFozwubD983iB/6w==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\.net\\.Net Learning\\Learning.CustomAttributes\\Learning.CustomAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\高熙熙\\.nuget\\packages\\icsharpcode.decompiler\\7.1.0.6543\\icsharpcode.decompiler.7.1.0.6543.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+D:\Learning\.net\Solution1\SQLServerHelper\obj\Debug\netcoreapp3.1\SQLServerHelper.csprojAssemblyReference.cache
+D:\Learning\.net\Solution1\SQLServerHelper\obj\Debug\netcoreapp3.1\SQLServerHelper.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\SQLServerHelper\obj\Debug\netcoreapp3.1\SQLServerHelper.AssemblyInfo.cs
+D:\Learning\.net\Solution1\SQLServerHelper\obj\Debug\netcoreapp3.1\SQLServerHelper.csproj.CoreCompileInputs.cache

@@ -1,0 +1,58 @@
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\appsettings.Development.json
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\appsettings.json
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.exe
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.deps.json
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.runtimeconfig.json
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.runtimeconfig.dev.json
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.dll
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\ref\Business.WebApi.Learning.dll
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.pdb
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning\.net\Solution1\Business.WebApi.Learning\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.csprojAssemblyReference.cache
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.AssemblyInfo.cs
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\staticwebassets\Business.WebApi.Learning.StaticWebAssets.Manifest.cache
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\staticwebassets\Business.WebApi.Learning.StaticWebAssets.xml
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\scopedcss\bundle\Business.WebApi.Learning.styles.css
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.RazorTargetAssemblyInfo.cache
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.csproj.CopyComplete
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.dll
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\ref\Business.WebApi.Learning.dll
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.pdb
+D:\Learning\.net\Solution1\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.genruntimeconfig.cache
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\appsettings.Development.json
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\appsettings.json
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.exe
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.deps.json
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.runtimeconfig.json
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.runtimeconfig.dev.json
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.dll
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\ref\Business.WebApi.Learning.dll
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Business.WebApi.Learning.pdb
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.csprojAssemblyReference.cache
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.AssemblyInfoInputs.cache
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.AssemblyInfo.cs
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.csproj.CoreCompileInputs.cache
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\staticwebassets\Business.WebApi.Learning.StaticWebAssets.Manifest.cache
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\staticwebassets\Business.WebApi.Learning.StaticWebAssets.xml
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\scopedcss\bundle\Business.WebApi.Learning.styles.css
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.RazorTargetAssemblyInfo.cache
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.csproj.CopyComplete
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.dll
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\ref\Business.WebApi.Learning.dll
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.pdb
+D:\Learning\.net\.Net Learning\Business.WebApi.Learning\obj\Debug\net5.0\Business.WebApi.Learning.genruntimeconfig.cache

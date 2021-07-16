@@ -1,0 +1,18 @@
+D:\Learning\.net\Solution1\Business.DB.Interface\bin\Debug\netcoreapp3.1\Business.DB.Interface.deps.json
+D:\Learning\.net\Solution1\Business.DB.Interface\bin\Debug\netcoreapp3.1\Business.DB.Interface.dll
+D:\Learning\.net\Solution1\Business.DB.Interface\bin\Debug\netcoreapp3.1\Business.DB.Interface.pdb
+D:\Learning\.net\Solution1\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.csprojAssemblyReference.cache
+D:\Learning\.net\Solution1\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.AssemblyInfoInputs.cache
+D:\Learning\.net\Solution1\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.AssemblyInfo.cs
+D:\Learning\.net\Solution1\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Solution1\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.dll
+D:\Learning\.net\Solution1\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.pdb
+D:\Learning\.net\.Net Learning\Business.DB.Interface\bin\Debug\netcoreapp3.1\Business.DB.Interface.deps.json
+D:\Learning\.net\.Net Learning\Business.DB.Interface\bin\Debug\netcoreapp3.1\Business.DB.Interface.dll
+D:\Learning\.net\.Net Learning\Business.DB.Interface\bin\Debug\netcoreapp3.1\Business.DB.Interface.pdb
+D:\Learning\.net\.Net Learning\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.csprojAssemblyReference.cache
+D:\Learning\.net\.Net Learning\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.AssemblyInfoInputs.cache
+D:\Learning\.net\.Net Learning\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.AssemblyInfo.cs
+D:\Learning\.net\.Net Learning\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.csproj.CoreCompileInputs.cache
+D:\Learning\.net\.Net Learning\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.dll
+D:\Learning\.net\.Net Learning\Business.DB.Interface\obj\Debug\netcoreapp3.1\Business.DB.Interface.pdb
