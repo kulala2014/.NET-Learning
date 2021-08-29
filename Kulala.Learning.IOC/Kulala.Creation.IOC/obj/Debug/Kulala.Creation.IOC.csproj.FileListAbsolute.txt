@@ -1,0 +1,7 @@
+D:\Learning\.net\Kulala.Learning.IOC\Kulala.Creation.IOC\bin\Debug\Kulala.Creation.IOC.exe.config
+D:\Learning\.net\Kulala.Learning.IOC\Kulala.Creation.IOC\bin\Debug\Kulala.Creation.IOC.exe
+D:\Learning\.net\Kulala.Learning.IOC\Kulala.Creation.IOC\bin\Debug\Kulala.Creation.IOC.pdb
+D:\Learning\.net\Kulala.Learning.IOC\Kulala.Creation.IOC\obj\Debug\Kulala.Creation.IOC.csproj.AssemblyReference.cache
+D:\Learning\.net\Kulala.Learning.IOC\Kulala.Creation.IOC\obj\Debug\Kulala.Creation.IOC.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Kulala.Learning.IOC\Kulala.Creation.IOC\obj\Debug\Kulala.Creation.IOC.exe
+D:\Learning\.net\Kulala.Learning.IOC\Kulala.Creation.IOC\obj\Debug\Kulala.Creation.IOC.pdb

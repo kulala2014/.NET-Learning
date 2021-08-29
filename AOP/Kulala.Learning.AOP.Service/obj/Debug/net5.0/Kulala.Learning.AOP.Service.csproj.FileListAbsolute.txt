@@ -1,0 +1,17 @@
+D:\Learning\.net\Kulala.Learning.AOP.Service\bin\Debug\net5.0\Kulala.Learning.AOP.Service.deps.json
+D:\Learning\.net\Kulala.Learning.AOP.Service\bin\Debug\net5.0\Kulala.Learning.AOP.Service.dll
+D:\Learning\.net\Kulala.Learning.AOP.Service\bin\Debug\net5.0\ref\Kulala.Learning.AOP.Service.dll
+D:\Learning\.net\Kulala.Learning.AOP.Service\bin\Debug\net5.0\Kulala.Learning.AOP.Service.pdb
+D:\Learning\.net\Kulala.Learning.AOP.Service\bin\Debug\net5.0\Kulala.Learning.AOP.IContract.dll
+D:\Learning\.net\Kulala.Learning.AOP.Service\bin\Debug\net5.0\Kulala.Learning.AOP.Model.dll
+D:\Learning\.net\Kulala.Learning.AOP.Service\bin\Debug\net5.0\Kulala.Learning.AOP.IContract.pdb
+D:\Learning\.net\Kulala.Learning.AOP.Service\bin\Debug\net5.0\Kulala.Learning.AOP.Model.pdb
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\Kulala.Learning.AOP.Service.csproj.AssemblyReference.cache
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\Kulala.Learning.AOP.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\Kulala.Learning.AOP.Service.AssemblyInfoInputs.cache
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\Kulala.Learning.AOP.Service.AssemblyInfo.cs
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\Kulala.Learning.AOP.Service.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\Kulala.Learning.AOP.Service.csproj.CopyComplete
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\Kulala.Learning.AOP.Service.dll
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\ref\Kulala.Learning.AOP.Service.dll
+D:\Learning\.net\Kulala.Learning.AOP.Service\obj\Debug\net5.0\Kulala.Learning.AOP.Service.pdb

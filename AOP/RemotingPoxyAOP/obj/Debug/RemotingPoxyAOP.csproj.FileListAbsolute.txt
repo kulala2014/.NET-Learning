@@ -1,0 +1,9 @@
+D:\Learning\.net\RemotingPoxyAOP\bin\Debug\RemotingPoxyAOP.exe.config
+D:\Learning\.net\RemotingPoxyAOP\bin\Debug\RemotingPoxyAOP.exe
+D:\Learning\.net\RemotingPoxyAOP\bin\Debug\RemotingPoxyAOP.pdb
+D:\Learning\.net\RemotingPoxyAOP\bin\Debug\Castle.Core.dll
+D:\Learning\.net\RemotingPoxyAOP\bin\Debug\Castle.Core.xml
+D:\Learning\.net\RemotingPoxyAOP\obj\Debug\RemotingPoxyAOP.csproj.CoreCompileInputs.cache
+D:\Learning\.net\RemotingPoxyAOP\obj\Debug\RemotingPoxyAOP.csproj.CopyComplete
+D:\Learning\.net\RemotingPoxyAOP\obj\Debug\RemotingPoxyAOP.exe
+D:\Learning\.net\RemotingPoxyAOP\obj\Debug\RemotingPoxyAOP.pdb

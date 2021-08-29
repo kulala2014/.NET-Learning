@@ -1,0 +1,12 @@
+D:\Learning\.net\Kulala.Learning.AOP.Common\bin\Debug\net5.0\Kulala.Learning.AOP.Common.deps.json
+D:\Learning\.net\Kulala.Learning.AOP.Common\bin\Debug\net5.0\Kulala.Learning.AOP.Common.dll
+D:\Learning\.net\Kulala.Learning.AOP.Common\bin\Debug\net5.0\ref\Kulala.Learning.AOP.Common.dll
+D:\Learning\.net\Kulala.Learning.AOP.Common\bin\Debug\net5.0\Kulala.Learning.AOP.Common.pdb
+D:\Learning\.net\Kulala.Learning.AOP.Common\obj\Debug\net5.0\Kulala.Learning.AOP.Common.csproj.AssemblyReference.cache
+D:\Learning\.net\Kulala.Learning.AOP.Common\obj\Debug\net5.0\Kulala.Learning.AOP.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\Kulala.Learning.AOP.Common\obj\Debug\net5.0\Kulala.Learning.AOP.Common.AssemblyInfoInputs.cache
+D:\Learning\.net\Kulala.Learning.AOP.Common\obj\Debug\net5.0\Kulala.Learning.AOP.Common.AssemblyInfo.cs
+D:\Learning\.net\Kulala.Learning.AOP.Common\obj\Debug\net5.0\Kulala.Learning.AOP.Common.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Kulala.Learning.AOP.Common\obj\Debug\net5.0\Kulala.Learning.AOP.Common.dll
+D:\Learning\.net\Kulala.Learning.AOP.Common\obj\Debug\net5.0\ref\Kulala.Learning.AOP.Common.dll
+D:\Learning\.net\Kulala.Learning.AOP.Common\obj\Debug\net5.0\Kulala.Learning.AOP.Common.pdb

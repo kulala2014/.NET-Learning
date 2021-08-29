@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Kulala.Learning.AOP.IContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Kulala.Learning.AOP.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kulala.Learning.AOP.IContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kulala.Learning.AOP.IContract.dll": {}
+        }
+      },
+      "Kulala.Learning.AOP.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Kulala.Learning.AOP.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kulala.Learning.AOP.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kulala.Learning.AOP.IContract/1.0.0": {
+      "type": "project",
+      "path": "../Kulala.Learning.AOP.IContract/Kulala.Learning.AOP.IContract.csproj",
+      "msbuildProject": "../Kulala.Learning.AOP.IContract/Kulala.Learning.AOP.IContract.csproj"
+    },
+    "Kulala.Learning.AOP.Model/1.0.0": {
+      "type": "project",
+      "path": "../Kulala.Learning.AOP.Model/Kulala.Learning.AOP.Model.csproj",
+      "msbuildProject": "../Kulala.Learning.AOP.Model/Kulala.Learning.AOP.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Kulala.Learning.AOP.IContract >= 1.0.0",
+      "Kulala.Learning.AOP.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\高熙熙\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Learning\\.net\\Kulala.Learning.AOP.Service\\Kulala.Learning.AOP.Service.csproj",
+      "projectName": "Kulala.Learning.AOP.Service",
+      "projectPath": "D:\\Learning\\.net\\Kulala.Learning.AOP.Service\\Kulala.Learning.AOP.Service.csproj",
+      "packagesPath": "C:\\Users\\高熙熙\\.nuget\\packages\\",
+      "outputPath": "D:\\Learning\\.net\\Kulala.Learning.AOP.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\高熙熙\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Learning\\.net\\Kulala.Learning.AOP.IContract\\Kulala.Learning.AOP.IContract.csproj": {
+              "projectPath": "D:\\Learning\\.net\\Kulala.Learning.AOP.IContract\\Kulala.Learning.AOP.IContract.csproj"
+            },
+            "D:\\Learning\\.net\\Kulala.Learning.AOP.Model\\Kulala.Learning.AOP.Model.csproj": {
+              "projectPath": "D:\\Learning\\.net\\Kulala.Learning.AOP.Model\\Kulala.Learning.AOP.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Learning\.net\.Net Learning\ThreadConsole\bin\Debug\net5.0\ThreadConsole.exe
+D:\Learning\.net\.Net Learning\ThreadConsole\bin\Debug\net5.0\ThreadConsole.deps.json
+D:\Learning\.net\.Net Learning\ThreadConsole\bin\Debug\net5.0\ThreadConsole.runtimeconfig.json
+D:\Learning\.net\.Net Learning\ThreadConsole\bin\Debug\net5.0\ThreadConsole.runtimeconfig.dev.json
+D:\Learning\.net\.Net Learning\ThreadConsole\bin\Debug\net5.0\ThreadConsole.dll
+D:\Learning\.net\.Net Learning\ThreadConsole\bin\Debug\net5.0\ref\ThreadConsole.dll
+D:\Learning\.net\.Net Learning\ThreadConsole\bin\Debug\net5.0\ThreadConsole.pdb
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ThreadConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ThreadConsole.AssemblyInfoInputs.cache
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ThreadConsole.AssemblyInfo.cs
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ThreadConsole.csproj.CoreCompileInputs.cache
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ThreadConsole.dll
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ref\ThreadConsole.dll
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ThreadConsole.pdb
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ThreadConsole.genruntimeconfig.cache
+D:\Learning\.net\.Net Learning\ThreadConsole\obj\Debug\net5.0\ThreadConsole.csproj.AssemblyReference.cache

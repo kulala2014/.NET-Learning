@@ -1,0 +1,15 @@
+D:\Learning\.net\Xixi.DTO\bin\Debug\net5.0\Xixi.DTO.deps.json
+D:\Learning\.net\Xixi.DTO\bin\Debug\net5.0\Xixi.DTO.dll
+D:\Learning\.net\Xixi.DTO\bin\Debug\net5.0\ref\Xixi.DTO.dll
+D:\Learning\.net\Xixi.DTO\bin\Debug\net5.0\Xixi.DTO.pdb
+D:\Learning\.net\Xixi.DTO\bin\Debug\net5.0\Xixi.Common.dll
+D:\Learning\.net\Xixi.DTO\bin\Debug\net5.0\Xixi.Common.pdb
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\Xixi.DTO.csproj.AssemblyReference.cache
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\Xixi.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\Xixi.DTO.AssemblyInfoInputs.cache
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\Xixi.DTO.AssemblyInfo.cs
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\Xixi.DTO.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\Xixi.DTO.csproj.CopyComplete
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\Xixi.DTO.dll
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\ref\Xixi.DTO.dll
+D:\Learning\.net\Xixi.DTO\obj\Debug\net5.0\Xixi.DTO.pdb

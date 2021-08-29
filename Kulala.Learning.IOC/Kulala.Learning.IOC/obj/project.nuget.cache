@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iu4N5SaFKn5T5agGgVwlKJGyIfCd3bukzWdxCNaXD6tEGDfhs1E4QSmgr/uWyl5gTE7NpKwCy60Pn0U/VI2WzA==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\.net\\Kulala.Learning.IOC\\Kulala.Learning.IOC\\Kulala.Learning.IOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\高熙熙\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\ninject\\3.3.4\\ninject.3.3.4.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reactive.runtime.remoting\\5.0.0\\system.reactive.runtime.remoting.5.0.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net5.0”还原包“System.Reactive.Runtime.Remoting 5.0.0”。此包可能与项目不完全兼容。",
+      "libraryId": "System.Reactive.Runtime.Remoting",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

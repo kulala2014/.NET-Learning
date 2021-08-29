@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kulala.Learning.AOP.IContract\Kulala.Learning.AOP.IContract.csproj" />
+    <ProjectReference Include="..\Kulala.Learning.AOP.Model\Kulala.Learning.AOP.Model.csproj" />
+  </ItemGroup>
+
+</Project>

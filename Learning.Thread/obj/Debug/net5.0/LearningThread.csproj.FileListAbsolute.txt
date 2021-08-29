@@ -1,0 +1,16 @@
+D:\Learning\.net\.Net Learning\Learning.Thread\bin\Debug\net5.0\LearningThread.exe
+D:\Learning\.net\.Net Learning\Learning.Thread\bin\Debug\net5.0\LearningThread.deps.json
+D:\Learning\.net\.Net Learning\Learning.Thread\bin\Debug\net5.0\LearningThread.runtimeconfig.json
+D:\Learning\.net\.Net Learning\Learning.Thread\bin\Debug\net5.0\LearningThread.runtimeconfig.dev.json
+D:\Learning\.net\.Net Learning\Learning.Thread\bin\Debug\net5.0\LearningThread.dll
+D:\Learning\.net\.Net Learning\Learning.Thread\bin\Debug\net5.0\ref\LearningThread.dll
+D:\Learning\.net\.Net Learning\Learning.Thread\bin\Debug\net5.0\LearningThread.pdb
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\LearningThread.csproj.AssemblyReference.cache
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\LearningThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\LearningThread.AssemblyInfoInputs.cache
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\LearningThread.AssemblyInfo.cs
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\LearningThread.csproj.CoreCompileInputs.cache
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\LearningThread.dll
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\ref\LearningThread.dll
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\LearningThread.pdb
+D:\Learning\.net\.Net Learning\Learning.Thread\obj\Debug\net5.0\LearningThread.genruntimeconfig.cache

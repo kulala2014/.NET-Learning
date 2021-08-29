@@ -1,0 +1,15 @@
+D:\Learning\.net\Xixi.Model\bin\Debug\net5.0\Xixi.Model.deps.json
+D:\Learning\.net\Xixi.Model\bin\Debug\net5.0\Xixi.Model.dll
+D:\Learning\.net\Xixi.Model\bin\Debug\net5.0\ref\Xixi.Model.dll
+D:\Learning\.net\Xixi.Model\bin\Debug\net5.0\Xixi.Model.pdb
+D:\Learning\.net\Xixi.Model\bin\Debug\net5.0\Xixi.Common.dll
+D:\Learning\.net\Xixi.Model\bin\Debug\net5.0\Xixi.Common.pdb
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\Xixi.Model.csproj.AssemblyReference.cache
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\Xixi.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\Xixi.Model.AssemblyInfoInputs.cache
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\Xixi.Model.AssemblyInfo.cs
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\Xixi.Model.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\Xixi.Model.csproj.CopyComplete
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\Xixi.Model.dll
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\ref\Xixi.Model.dll
+D:\Learning\.net\Xixi.Model\obj\Debug\net5.0\Xixi.Model.pdb

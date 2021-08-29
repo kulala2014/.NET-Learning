@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0fdA6nd5vH50tksuMN9W773t7lzzTMohEdWKnuyuo1upAmkc9WNHHczpSPbI/MrEdjtoUBi093LirIFtLaJDA==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\.net\\Kulala.Learning.AOP\\Kulala.Learning.AOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity.configuration\\5.11.2\\unity.configuration.5.11.2.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity.interception\\5.11.1\\unity.interception.5.11.1.nupkg.sha512",
+    "C:\\Users\\高熙熙\\.nuget\\packages\\unity.interception.configuration\\5.11.1\\unity.interception.configuration.5.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

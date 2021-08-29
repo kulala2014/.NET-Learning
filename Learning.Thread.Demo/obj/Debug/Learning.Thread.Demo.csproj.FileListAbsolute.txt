@@ -1,0 +1,10 @@
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\bin\Debug\Learning.Thread.Demo.exe.config
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\bin\Debug\Learning.Thread.Demo.exe
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\bin\Debug\Learning.Thread.Demo.pdb
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\obj\Debug\Learning.Thread.Demo.csproj.AssemblyReference.cache
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\obj\Debug\Learning.Thread.Demo.Properties.Resources.resources
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\obj\Debug\Learning.Thread.Demo.csproj.GenerateResource.cache
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\obj\Debug\Learning.Thread.Demo.csproj.CoreCompileInputs.cache
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\obj\Debug\Learning.Thread.Demo.exe
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\obj\Debug\Learning.Thread.Demo.pdb
+D:\Learning\.net\.Net Learning\Learning.Thread.Demo\obj\Debug\Learning.Thread.Demo.Form1.resources

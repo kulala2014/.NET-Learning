@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kulala.Learning.AOP.IContract/1.0.0": {
+        "dependencies": {
+          "Kulala.Learning.AOP.Model": "1.0.0"
+        },
+        "runtime": {
+          "Kulala.Learning.AOP.IContract.dll": {}
+        }
+      },
+      "Kulala.Learning.AOP.Model/1.0.0": {
+        "runtime": {
+          "Kulala.Learning.AOP.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kulala.Learning.AOP.IContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kulala.Learning.AOP.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.exe.config
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.exe
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.pdb
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.Common.dll
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.Interface.dll
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.Service.dll
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.Common.pdb
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.Interface.pdb
+D:\Learning\.net\Kulala.Learning.Cache\bin\Debug\Kulala.Learning.Cache.Service.pdb
+D:\Learning\.net\Kulala.Learning.Cache\obj\Debug\Kulala.Learning.Cache.csproj.AssemblyReference.cache
+D:\Learning\.net\Kulala.Learning.Cache\obj\Debug\Kulala.Learning.Cache.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Kulala.Learning.Cache\obj\Debug\Kulala.Learning.Cache.csproj.CopyComplete
+D:\Learning\.net\Kulala.Learning.Cache\obj\Debug\Kulala.Learning.Cache.exe
+D:\Learning\.net\Kulala.Learning.Cache\obj\Debug\Kulala.Learning.Cache.pdb

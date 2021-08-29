@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningThread", "LearningThread.csproj", "{3231DE8D-B51B-459E-8E9B-3D335FF50F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAsync", "..\MyAsync\MyAsync.csproj", "{DD775B61-08E6-4019-9E7A-C8E38CC2B453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3231DE8D-B51B-459E-8E9B-3D335FF50F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3231DE8D-B51B-459E-8E9B-3D335FF50F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3231DE8D-B51B-459E-8E9B-3D335FF50F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3231DE8D-B51B-459E-8E9B-3D335FF50F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD775B61-08E6-4019-9E7A-C8E38CC2B453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD775B61-08E6-4019-9E7A-C8E38CC2B453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD775B61-08E6-4019-9E7A-C8E38CC2B453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD775B61-08E6-4019-9E7A-C8E38CC2B453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454223C9-044C-4246-A6C4-2E31C2490562}
+	EndGlobalSection
+EndGlobal

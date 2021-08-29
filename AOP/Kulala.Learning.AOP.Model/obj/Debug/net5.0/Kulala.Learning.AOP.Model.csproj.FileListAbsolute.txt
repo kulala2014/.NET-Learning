@@ -1,0 +1,11 @@
+D:\Learning\.net\Kulala.Learning.AOP.Model\bin\Debug\net5.0\Kulala.Learning.AOP.Model.deps.json
+D:\Learning\.net\Kulala.Learning.AOP.Model\bin\Debug\net5.0\Kulala.Learning.AOP.Model.dll
+D:\Learning\.net\Kulala.Learning.AOP.Model\bin\Debug\net5.0\ref\Kulala.Learning.AOP.Model.dll
+D:\Learning\.net\Kulala.Learning.AOP.Model\bin\Debug\net5.0\Kulala.Learning.AOP.Model.pdb
+D:\Learning\.net\Kulala.Learning.AOP.Model\obj\Debug\net5.0\Kulala.Learning.AOP.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\Kulala.Learning.AOP.Model\obj\Debug\net5.0\Kulala.Learning.AOP.Model.AssemblyInfoInputs.cache
+D:\Learning\.net\Kulala.Learning.AOP.Model\obj\Debug\net5.0\Kulala.Learning.AOP.Model.AssemblyInfo.cs
+D:\Learning\.net\Kulala.Learning.AOP.Model\obj\Debug\net5.0\Kulala.Learning.AOP.Model.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Kulala.Learning.AOP.Model\obj\Debug\net5.0\Kulala.Learning.AOP.Model.dll
+D:\Learning\.net\Kulala.Learning.AOP.Model\obj\Debug\net5.0\ref\Kulala.Learning.AOP.Model.dll
+D:\Learning\.net\Kulala.Learning.AOP.Model\obj\Debug\net5.0\Kulala.Learning.AOP.Model.pdb

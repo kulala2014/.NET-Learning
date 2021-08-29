@@ -1,0 +1,17 @@
+D:\Learning\.net\Xixi.IDBL\bin\Debug\net5.0\Xixi.IDBL.deps.json
+D:\Learning\.net\Xixi.IDBL\bin\Debug\net5.0\Xixi.IDBL.dll
+D:\Learning\.net\Xixi.IDBL\bin\Debug\net5.0\ref\Xixi.IDBL.dll
+D:\Learning\.net\Xixi.IDBL\bin\Debug\net5.0\Xixi.IDBL.pdb
+D:\Learning\.net\Xixi.IDBL\bin\Debug\net5.0\Xixi.Common.dll
+D:\Learning\.net\Xixi.IDBL\bin\Debug\net5.0\Xixi.Model.dll
+D:\Learning\.net\Xixi.IDBL\bin\Debug\net5.0\Xixi.Model.pdb
+D:\Learning\.net\Xixi.IDBL\bin\Debug\net5.0\Xixi.Common.pdb
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\Xixi.IDBL.csproj.AssemblyReference.cache
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\Xixi.IDBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\Xixi.IDBL.AssemblyInfoInputs.cache
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\Xixi.IDBL.AssemblyInfo.cs
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\Xixi.IDBL.csproj.CoreCompileInputs.cache
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\Xixi.IDBL.csproj.CopyComplete
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\Xixi.IDBL.dll
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\ref\Xixi.IDBL.dll
+D:\Learning\.net\Xixi.IDBL\obj\Debug\net5.0\Xixi.IDBL.pdb
